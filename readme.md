@@ -25,3 +25,7 @@ code for all sensors used as prototypes.
 # Development
 
 The development is done in the beta branch.
+
+# About this Fork
+
+This fork add the possibility to edit the InfluxDb measurement name in the config page.
