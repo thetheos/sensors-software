@@ -47,6 +47,7 @@
 #define HOST_INFLUX "influx.server"
 #define URL_INFLUX "/write?db=luftdaten"
 #define PORT_INFLUX 8086
+#define MEASUR_INFLUX "feinstaub" //THETHEOS
 #define USER_INFLUX ""
 #define PWD_INFLUX ""
 
